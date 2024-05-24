@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 Matej Nikolovski 225011
 
-2. ![CFG](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/cb02c636-4439-4a96-891f-6f0611af7b66)
+2. ![CFG](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/17593bf6-f2a7-4cdd-a0bd-fb05569ad87d)
 
 3. Цикломатската комплексност се пресметува со формулата V(G) = E - V + 2P
    V(G)=39-31+2*1=**10**
@@ -24,7 +23,7 @@ Matej Nikolovski 225011
  - allItems=[{“Matej”,123456, 200,-1}] резултат објект со негативен попуст
 ```
 
-  ![image](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/e75b8de2-0f3b-4896-af45-955e3de339b8)
+![image](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/1b329abf-9e86-4e71-97ed-37f3b3d67204)
 
 5.Multiple Condition тест случаи:
   ```
@@ -35,6 +34,3 @@ Matej Nikolovski 225011
   ```
 
 6.Успешен Build.
-=======
-# SI_2024_lab2_225011
->>>>>>> 30dca178670fbac3c3d219225453da409dae0095
