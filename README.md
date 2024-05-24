@@ -12,7 +12,11 @@ Matej Nikolovski 225011
 ```
  - allItems = null фрла exception
  - allitems = [], payment = 0 резултат 0 и празен ArrayList
+<<<<<<< HEAD
  - allitems = [], payment = -1 резултат -1 и празен ArrayList
+=======
+ - allitems = [], payment = -1 резултат -1 и празен ArrayList
+>>>>>>> 7a0f31fb1e214036a02264b36fc8d99ceafce038
  - allitems = [{"",null,200,0.4}] резултат 1 објект со празно име
  - allitems = [{"",012345,350,0.4}], payment = 2 резултат еден објект со баркод што почнува на 0
  - allItems=[{“Matej”,01f3456,350,0.4}] резултат објект со име и баркод што содржи буква во него 
