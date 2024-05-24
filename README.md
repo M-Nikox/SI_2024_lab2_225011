@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Matej Nikolovski 225011
 
 2. ![CFG](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/cb02c636-4439-4a96-891f-6f0611af7b66)
@@ -34,3 +35,6 @@ Matej Nikolovski 225011
   ```
 
 6.Успешен Build.
+=======
+# SI_2024_lab2_225011
+>>>>>>> 30dca178670fbac3c3d219225453da409dae0095
