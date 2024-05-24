@@ -1,7 +1,9 @@
-# Matej Nikolovski 225011
+# Втора лабораториска вежба по Софтверско инженерство
+## Матеј Николовски, бр. на индекс 225011
 
 2. CFG:
-   ![CFG](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/17593bf6-f2a7-4cdd-a0bd-fb05569ad87d)
+
+   ![CFG](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/e582087f-3d2b-462d-9873-f716b1493717)
 
 4. Цикломатската комплексност се пресметува со формулата V(G) = E - V + 2P или пак со V(G) = PN + 1 (Predicate Nodes)
    - V(G)=39-31+2*1=**10**
@@ -20,7 +22,7 @@
  - allItems=[{“Matej”,123456, 200,-1}] резултат објект со негативен попуст
 ```
 
-![image](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/1b329abf-9e86-4e71-97ed-37f3b3d67204)
+   ![image](https://github.com/M-Nikox/SI_2024_lab2_225011/assets/101933576/4f05cecb-940a-4809-af1e-94644f685bb3)
 
 5.Multiple Condition тест случаи:
   
